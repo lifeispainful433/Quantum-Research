@@ -172,7 +172,7 @@ Qubit Mapping
 Routing
 
 ## Related papers
-[[Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers]]
+[Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers]
 
 
 
@@ -180,4 +180,4 @@ Routing
 
 ## 6. Limitation
 
-![[Pasted image 20260804130828.png]]
+[Pasted image 20260804130828.png]
