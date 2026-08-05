@@ -25,4 +25,4 @@ Personal notes and code on quantum compilation, focusing on qubit mapping and ro
 still learning
 
 ## Contact
-- Email: [13764776742@163.com]
+- Email: 13764776742@163.com
