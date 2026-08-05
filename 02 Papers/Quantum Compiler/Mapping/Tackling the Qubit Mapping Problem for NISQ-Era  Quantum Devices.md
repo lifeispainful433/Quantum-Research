@@ -57,7 +57,7 @@ solutions are infeasible for scalable NISQ devices.
 # 3. Method (How)
 
 SWAP-based Heuristic Search
-![[Pasted image 20260804115547.png|193]]     
+![Figure X](images/Pasted_image_20260804130828.png)     
 
 Reverse Traversal Technique
 
