@@ -22,9 +22,7 @@ Personal notes and code on quantum compilation, focusing on qubit mapping and ro
 - `images/` — Figures and screenshots from papers
 
 ## Tools & Skills
-- Qiskit
-- Python / NumPy / NetworkX
-- Obsidian + GitHub for knowledge management
+still learning
 
 ## Contact
-- Email: [your-email@example.com]
+- Email: [13764776742@163.com]
