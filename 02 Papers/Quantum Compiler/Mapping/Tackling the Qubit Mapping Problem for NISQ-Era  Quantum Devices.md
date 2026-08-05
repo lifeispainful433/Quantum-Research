@@ -78,7 +78,7 @@ Without decay, the heuristic search tends to greedily move the same qubit along 
 ## Mathematics
 
 $$
-H = \max(\text{decay}(q_1), \text{decay}(q_2)) \times \left\{ \frac{1}{|F|}\sum_{g \in F} D[\pi(g.q_1)][\pi(g.q_2)] + W \cdot \frac{1}{|E|}\sum_{g \in E} D[\pi(g.q_1)][\pi(g.q_2)] \right\}
+H = \max(\text{decay}(q_1), \text{decay}(q_2)) \cdot \left( \frac{1}{|F|}\sum_{g \in F} D[\pi(g.q_1)][\pi(g.q_2)] + W \cdot \frac{1}{|E|}\sum_{g \in E} D[\pi(g.q_1)][\pi(g.q_2)] \right)
 $$
 
 
